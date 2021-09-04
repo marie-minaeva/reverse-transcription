@@ -1,2 +1,1 @@
-# Bioinformatics-project
-Our project on reverse translation 
+Implementation of reverse translation
